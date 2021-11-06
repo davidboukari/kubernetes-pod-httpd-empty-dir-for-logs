@@ -1,0 +1,1 @@
+# kubernetes-pod-httpd-empty-dir-for-logs
